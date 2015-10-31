@@ -1,2 +1,2 @@
 # my_cv
-my cv
+python cv.py
